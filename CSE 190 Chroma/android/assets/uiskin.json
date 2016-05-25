@@ -1,0 +1,39 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "default": { "file": "font.fnt" },
+    "settingsTitleFont": { "file": "font.fnt" },
+    "settingsFont": { "file": "font.fnt" },
+    "levelSelectTitleFont": { "file": "font.fnt" },
+    "levelSelectRowFont": { "file": "font.fnt" },
+    "winTitleFont": { "file": "font.fnt" },
+    "winFont": { "file": "font.fnt" },
+    "pauseFont": { "file": "font.fnt" },
+    "storeFont": { "file": "font.fnt" },
+    "levelNumFont": { "file": "font.fnt" }
+  },
+
+  "com.badlogic.gdx.graphics.Color": {
+    "red": { "r": 1, "g": 0, "b": 0, "a": 1},
+    "green": { "r": 0, "g": 1, "b": 0, "a": 1},
+    "blue": { "r": 0, "g": 0, "b": 1, "a": 1},
+    "white": { "r": 1, "g": 1, "b": 1, "a": 1},
+    "black": { "r": 0, "g": 0, "b": 0, "a": 1},
+    "redDisabled": { "r": 1, "g": 0, "b": 0, "a": 0.4},
+    "greenDisabled": { "r": 0, "g": 1, "b": 0, "a": 0.4},
+    "blueDisabled": { "r": 0, "g": 0, "b": 1, "a": 0.4}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "levelSelectRow1": {"font": "levelSelectRowFont", "fontColor": "red", "disabledFontColor": "redDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "levelSelectRow2": {"font": "levelSelectRowFont", "fontColor": "green", "disabledFontColor": "greenDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "levelSelectRow3": {"font": "levelSelectRowFont", "fontColor": "blue", "disabledFontColor": "blueDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "settings": {"font": "settingsFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "winNext": {"font": "winFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "pause": {"font": "pauseFont", "fontColor": "white", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "store": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "levelNumTitle": {"font": "levelNumFont", "fontColor": "black"}
+  },
+}

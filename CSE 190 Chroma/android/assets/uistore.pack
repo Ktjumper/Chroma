@@ -1,0 +1,54 @@
+
+uistore.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+storePack2
+  rotate: false
+  xy: 1, 173
+  size: 616, 36
+  orig: 616, 36
+  offset: 0, 0
+  index: -1
+storePack1
+  rotate: false
+  xy: 1, 138
+  size: 616, 33
+  orig: 616, 33
+  offset: 0, 0
+  index: -1
+storePack3
+  rotate: false
+  xy: 1, 103
+  size: 616, 33
+  orig: 616, 33
+  offset: 0, 0
+  index: -1
+storePackAds
+  rotate: false
+  xy: 1, 68
+  size: 616, 33
+  orig: 616, 33
+  offset: 0, 0
+  index: -1
+storePackColor
+  rotate: false
+  xy: 1, 34
+  size: 616, 32
+  orig: 616, 32
+  offset: 0, 0
+  index: -1
+storePackSound
+  rotate: false
+  xy: 1, 1
+  size: 616, 31
+  orig: 616, 31
+  offset: 0, 0
+  index: -1
+storeTitle
+  rotate: false
+  xy: 619, 133
+  size: 221, 76
+  orig: 221, 76
+  offset: 0, 0
+  index: -1

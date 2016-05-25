@@ -1,0 +1,24 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "default": { "file": "font.fnt" },
+    "storeFont": { "file": "font.fnt" }
+  },
+
+  "com.badlogic.gdx.graphics.Color": {
+    "black": { "r": 0, "g": 0, "b": 0, "a": 1}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "storeButton": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "storePack1Button": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePack1"},
+    "storePack2Button": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePack2"},
+    "storePack3Button": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePack3"},
+    "storePackSoundButton": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePackSound"},
+    "storePackColorButton": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePackColor"},
+    "storePackAdsButton": {"font": "storeFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2, "up": "storePackAds"}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "storeLabel": {"font": "storeFont" }
+  },
+}

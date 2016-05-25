@@ -1,0 +1,26 @@
+
+menubuttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelSelectImage
+  rotate: false
+  xy: 1, 1
+  size: 276, 70
+  orig: 276, 70
+  offset: 0, 0
+  index: -1
+settingsImage
+  rotate: false
+  xy: 279, 1
+  size: 276, 70
+  orig: 276, 70
+  offset: 0, 0
+  index: -1
+startImage
+  rotate: false
+  xy: 557, 1
+  size: 276, 70
+  orig: 276, 70
+  offset: 0, 0
+  index: -1

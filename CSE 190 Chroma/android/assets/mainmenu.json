@@ -1,0 +1,19 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "menuStart": {
+      "pressedOffsetX": 2,
+      "pressedOffsetY": -2,
+      "up": "startImage"
+    },
+    "menuSelect": {
+      "pressedOffsetX": 2,
+      "pressedOffsetY": -2,
+      "up": "levelSelectImage"
+    },
+    "menuSettings": {
+      "pressedOffsetX": 2,
+      "pressedOffsetY": -2,
+      "up": "settingsImage"
+    }
+  }
+}

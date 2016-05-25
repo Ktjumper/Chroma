@@ -1,0 +1,25 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "default": { "file": "font.fnt" },
+    "levelSelectTitleFont": { "file": "font.fnt" },
+    "levelSelectRowFont": { "file": "font.fnt" },
+    "settingsFont": { "file": "font.fnt" }
+  },
+
+  "com.badlogic.gdx.graphics.Color": {
+    "red": { "r": 0.99, "g": 0.26, "b": 0.29, "a": 1},
+    "green": { "r": 0.47, "g": 0.81, "b": 0.28, "a": 1},
+    "blue": { "r": 0.38, "g": 0.49, "b": 0.90, "a": 1},
+    "redDisabled": { "r": 0.99, "g": 0.26, "b": 0.29, "a": 0.4},
+    "greenDisabled": { "r": 0.47, "g": 0.81, "b": 0.28, "a": 0.4},
+    "blueDisabled": { "r": 0.38, "g": 0.49, "b": 0.90, "a": 0.4},
+    "black": { "r": 0, "g": 0, "b": 0, "a": 1}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "levelSelectRow1": {"font": "levelSelectRowFont", "fontColor": "red", "disabledFontColor": "redDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "levelSelectRow2": {"font": "levelSelectRowFont", "fontColor": "green", "disabledFontColor": "greenDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "levelSelectRow3": {"font": "levelSelectRowFont", "fontColor": "blue", "disabledFontColor": "blueDisabled", "pressedOffsetX": 2, "pressedOffsetY": -2},
+    "settings": {"font": "settingsFont", "fontColor": "black", "pressedOffsetX": 2, "pressedOffsetY": -2}
+  }
+}

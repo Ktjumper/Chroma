@@ -1,0 +1,40 @@
+
+uitext.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cleared
+  rotate: false
+  xy: 1, 103
+  size: 611, 100
+  orig: 611, 100
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 1, 1
+  size: 426, 100
+  orig: 426, 100
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 614, 103
+  size: 374, 100
+  orig: 374, 100
+  offset: 0, 0
+  index: -1
+hard
+  rotate: false
+  xy: 429, 1
+  size: 320, 100
+  orig: 320, 100
+  offset: 0, 0
+  index: -1
+easy
+  rotate: false
+  xy: 751, 1
+  size: 226, 100
+  orig: 226, 100
+  offset: 0, 0
+  index: -1

@@ -7,3 +7,5 @@ pull the repo. In AndroidStudio, go to File -> New -> Import Project -> Find bui
 Build/Run as you would normally.
 
 The main place we'll be coding is core -> java -> com.mygdx.game -> MyGdxGame. For ex, the render() method is where I display our loading screen.
+
+App is built for the purpose of a project for a class, no publication online or in the google play store have been made at this point.
